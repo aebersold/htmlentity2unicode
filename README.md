@@ -10,4 +10,4 @@ Usage
 
 Author
 ------
-&copy; 2012 Simon Aebersold - [@ouhjasolaessig](https://twitter.com/ouhjasolaessig), (http://aebersold.me)
+&copy; 2012 Simon Aebersold - [@ouhjasolaessig](https://twitter.com/ouhjasolaessig), http://aebersold.me
