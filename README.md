@@ -10,7 +10,7 @@ sh h2u.sh myfile.txt
 
 Author
 ------
-&copy; 2012 Simon Aebersold - [@saebersold](https://twitter.com/ouhjasolaessig), http://aebersold.me
+&copy; 2012 Simon Aebersold - [@saebersold](https://twitter.com/saebersold), http://aebersold.me
 
 License
 -------
